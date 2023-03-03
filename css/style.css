@@ -217,8 +217,8 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .main .sobre-mi .contenedor-sobre-mi .texto {
   padding: 1.5rem 0;
-  background: #101010;
-  color: red;
+  background: #FDEBD0;
+  color: rgb(0, 0, 0);
   font-family: monospace, Arial;
   width: 70%;
   min-height: 27.5rem;
